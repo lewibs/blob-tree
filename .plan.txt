@@ -1,0 +1,1 @@
+when you are checking a point, check it, and its TOTAL surrounding points to match it to a blob even the unsaved ones. That way it can help make blobs that arent quite acceptable

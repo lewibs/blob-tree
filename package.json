@@ -1,0 +1,25 @@
+{
+  "name": "blob-tree",
+  "version": "1.0.0",
+  "description": "color grouping datastructure",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewibs/blob-tree.git"
+  },
+  "author": "lewibs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lewibs/blob-tree/issues"
+  },
+  "homepage": "https://github.com/lewibs/blob-tree#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "three": "^0.164.1"
+  }
+}
